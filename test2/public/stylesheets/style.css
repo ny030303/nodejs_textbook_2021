@@ -1,0 +1,34 @@
+body {
+  /* padding: 50px; */
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  /* background: #f8f8f8; */
+  background-color: #e4e5ea;
+  height: 100vh;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.uk-margin {
+  display: inline-block;
+}
+
+.uk-navbar {
+  background: #fff !important;
+  border-bottom: 1px solid #f4f7f9;
+}
+
+.nav {
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+  background: #fff !important;
+  box-shadow: 0 0 6px 0 rgb(0 0 0 / 7%);
+}
+
+.main {
+  width: 1189px;
+  margin: 0 auto;
+  padding-top: 170px;
+}
