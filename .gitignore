@@ -1,4 +1,5 @@
 .DS_Store
+book-files
 node_modules
 /dist
 
